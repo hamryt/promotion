@@ -1,3 +1,4 @@
 rootProject.name = 'promotion'
 include 'discovery'
 include 'user'
+include 'gateway'
